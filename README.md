@@ -31,7 +31,7 @@ Binary Calculator is a web-based calculator that allows you to perform operation
 
 ## Preview
 
-Use the Binary Calculator live on GitHub Pages and explore the world of binary number operations!
+Use the Binary Calculator live on https://myselfshivams.github.io/BinaryCalculator/
 
 ## Contribute
 
